@@ -46,3 +46,4 @@ Android APP for configuring static IP on ethernet interface via USB ethernet ada
 ## License
 
 MIT
+
